@@ -17,7 +17,7 @@ O projeto utiliza:
 
 - **HTML**, **CSS** e **JavaScript**.
 - Consumo de uma API (tradução para Português).
-- Design responsivo para desktop e mobile.
+
 
 ---
 
