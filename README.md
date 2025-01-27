@@ -40,3 +40,5 @@ Após clonar o repositório, entre no diretório do projeto com o comando:
 ```bash
 cd Delicias_Do_Dia-
 ```
+
+✍️ Feito com amor por [Gabriell-Santos](https://github.com/Gabriell-Santos) ❤️ 🌐 🖋️
