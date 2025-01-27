@@ -20,7 +20,7 @@ O projeto utiliza as seguintes tecnologias:
 
 ---
 
-## 🚀 Como Usar
+## 🖥️ Como Usar
 
 Siga as instruções abaixo para clonar e rodar o projeto em sua máquina:
 
@@ -40,5 +40,5 @@ Após clonar o repositório, entre no diretório do projeto com o comando:
 ```bash
 cd Delicias_Do_Dia-
 ```
-
+----
 ✍️ Feito com amor por [Gabriell-Santos](https://github.com/Gabriell-Santos) ❤️ 🌐 🖋️
