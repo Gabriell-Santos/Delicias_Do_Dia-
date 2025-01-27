@@ -11,14 +11,32 @@
 - Apresenta uma lista de receitas com detalhes completos.
 - Inspirado em momentos de convivência e paixão pela culinária.
 
-## 🕹ï Tecnologias 
+## 🕹️ Tecnologias Utilizadas
 
-O projeto utiliza:
+O projeto utiliza as seguintes tecnologias:
 
 - **HTML**, **CSS** e **JavaScript**.
-- Consumo de uma API (tradução para Português).
-
+- Consumo de uma API (com suporte para tradução para Português).
 
 ---
 
-✍️ Feito com amor por [Gabriell-Santos](https://github.com/Gabriell-Santos) ❤️ 🌐 🖋️
+## 🚀 Como Usar
+
+Siga as instruções abaixo para clonar e rodar o projeto em sua máquina:
+
+### 1️⃣ Pré-requisitos
+Certifique-se de ter o **Git** e um navegador web instalados em sua máquina.
+
+### 2️⃣ Clone o Repositório
+Abra o terminal e execute o seguinte comando para clonar o repositório:
+
+```bash
+git clone https://github.com/Gabriell-Santos/Delicias_Do_Dia-.git
+```
+
+### 3️⃣ Acesse a Pasta do Projeto
+Após clonar o repositório, entre no diretório do projeto com o comando:
+
+```bash
+cd Delicias_Do_Dia-
+```
